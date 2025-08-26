@@ -1,0 +1,31 @@
+
+img{
+
+ border: 3px darkblue solid;
+ border-radius: 40px;
+}
+div{
+  margin-left: 100px; 
+   text-align: center;
+}
+.n1:hover{
+    background-color: blueviolet;
+}
+.n2:hover{
+    background-color: blueviolet;
+}
+.n3:hover{
+    background-color: blueviolet;
+}
+.over{
+background-color: beige;
+ border: 3px darkblue solid;
+ border-radius: 40px;
+    display: flex;
+    
+}
+.header
+{
+position:sticky;
+top:0%;
+}

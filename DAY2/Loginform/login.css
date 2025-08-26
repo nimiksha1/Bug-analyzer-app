@@ -1,0 +1,31 @@
+div{
+    
+    width: 380px;
+    height: 300px;
+ margin-top: 100px;
+    padding-left: 50px;
+    align-items: center;
+    margin-left: 100px;
+    border-radius: 50px;
+    color: white;
+   border: 3px rgb(164, 36, 36) solid;
+   box-shadow: -10px -10px 10px red;
+}
+body{
+    
+    background-image: url(https://wallpapers.com/images/hd/ferrari-f1-ca0wtjmyguu8tyhg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    width: 200px;
+    height: 30px;
+    border: 3px black solid;
+    border-radius: 30px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border: 3px black solid;
+    border-radius: 30px;
+}
